@@ -26,6 +26,6 @@ Freelance-style / Client-based project (concept build)
 
 
 ## 🔗 Live Demo
-(Add deployed link later)
+Soon
 
 ---
